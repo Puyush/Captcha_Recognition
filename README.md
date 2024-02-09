@@ -8,7 +8,7 @@ OCR Captcha Recognition is a deep learning project designed to recognize and dec
 
 ### Key Features:
 
-- **End-to-End OCR Model:** Integrating CNNs for image feature extraction and Bidirectional LSTMs for sequence recognition.
+- **End-to-End OCR Model:** Integrating CNNs for image feature extraction and Bidirectional LSTMs for sequence recognition, employing residual blocks strategically within the model architecture to enhance its strength and accuracy.
 
 - **CTC Loss Function:** Implementing a custom CTC loss function for training the model efficiently.
 
