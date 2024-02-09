@@ -2,7 +2,7 @@
 
 **Check out the live demo:** [Captcha Recognition Demo](https://huggingface.co/spaces/Puyush/Captcha_Recognition)
 
-**Dataset:** [Captcha Images Dataset](https://www.kaggle.com/datasets/puyushgupta/captcha-recognition))
+**Dataset:** [Captcha Images Dataset](https://www.kaggle.com/datasets/puyushgupta/captcha-recognition)
 
 OCR Captcha Recognition is a deep learning project designed to recognize and decipher captcha images using Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs). The model is built with TensorFlow and Keras, leveraging Connectionist Temporal Classification (CTC) loss for accurate sequence labeling.
 
